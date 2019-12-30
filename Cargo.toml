@@ -1,0 +1,11 @@
+[package]
+name = "osc-seq"
+version = "0.1.0"
+authors = ["Paul Adenot <paul@paul.cx>"]
+edition = "2018"
+
+[dependencies]
+tokio = "0.1"
+rosc = "0.1"
+euclidian-rythms = "0.1.0"
+audio_thread_priority = "0.21.0"
